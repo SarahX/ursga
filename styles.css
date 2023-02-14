@@ -164,6 +164,7 @@ header, footer, nav, .lead, .full-width, .whatisopen {
 h1 {
 	font-family: "Century Gothic", "Avant Garde", AppleGothic, Futura, Geneva, sans-serif;
 	text-align: center;
+	font-weight: bold;
 }
 
 .back h1, .ddbl {
@@ -174,11 +175,10 @@ h1 {
 }
 
 .intro {
-	font-weight: bold;
-	font-size: 20px;
+	font-size: 25px;
 	font-family: "Century Gothic", "Avant Garde", AppleGothic, Futura, Geneva, sans-serif;
 	text-align: center;
-	color: #ADD8E6;
+	color: #6e6ed3;
 }
 
 h2 {
@@ -262,7 +262,7 @@ figure {
 }
 
 a {
-	color: #ffdb4d;
+	color: #6e6ed3;
 	text-decoration: none;
 }
 
@@ -295,7 +295,7 @@ color: #FA8072;
 
 footer {
 	width: 100%;
-  position: absolute;
+  	position: absolute;
 	font-weight: bold;
 	text-align: center;
 	background-color: #003366;
@@ -404,7 +404,7 @@ fieldset {
 
 header {
 	width: 100%;
-	background-color: #003366;
+	background-color: #95BFC0;
 	padding-bottom: 3em;
 	padding-top: 3em;
 	top: 0px;
@@ -430,7 +430,7 @@ img {
 
 nav {
 	padding-top: 3em;
-    	background-color: #484848;
+    background-color: #D3D3D3;
   	text-align: center;
 }
 
